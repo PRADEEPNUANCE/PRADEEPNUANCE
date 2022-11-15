@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PRADEEPNUANCE
-- 👀 I’m interested in creating sub reposity / folder within parent repository
+- 👀 I’m interested in creating sub repository / folder within parent repository
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... "pradeep.chavan@nuance.com"
